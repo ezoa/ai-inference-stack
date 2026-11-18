@@ -1,0 +1,22 @@
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+logs/
+
+# Local caches
+.cache/
+models/
+
+# Editor files
+.vscode/
+.idea/
